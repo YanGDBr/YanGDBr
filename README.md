@@ -23,7 +23,7 @@ Sou apenas um Jovem programador por enquanto, estudando Desenvolvimento de Siste
 
 <img  width="35%"  src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg">
 
-<img  width="25%"  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Il8SPHMhrKkwoYjI"  style="margin-left: 5%;">
+<img  width="25%"  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Il8SPHMhrKkwoYjI"  style="margin-left: 20%;">
 
   
 
