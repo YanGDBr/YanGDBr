@@ -5,7 +5,7 @@ Atualmente gostando bastante de desafios lógicos, em sitea como LeetCode.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangdbr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangdbr&show_icons=true&theme=synthwave)
 
 ## Ambiente de Trabalho
 
