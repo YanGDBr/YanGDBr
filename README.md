@@ -6,11 +6,6 @@ Atualmente Cursando Desenvolvimento de Sistemas pela ETEC.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangdbr&show_icons=true&theme=synthwave)
 
-## Ambiente de Trabalho
-
-<img align="left" height="94px" width="94px" alt="VSCode" src="https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg"/>
-<img height="94px" width="94px" alt="Linux Debian" src="https://www.debian.org/Pics/openlogo-50.png"/>
-
 ---
 
 ## Ferramentas e Linguagens
