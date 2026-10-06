@@ -1,54 +1,128 @@
-# Olá, eu sou Yan
+<div align="center">
 
-Atualmente Cursando Desenvolvimento de Sistemas pela ETEC.
+# Olá, eu sou Yan 👋
 
----
+### Estudante de Desenvolvimento de Sistemas • ETEC
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangdbr&show_icons=true&theme=synthwave)
+Apaixonado por lógica, resolução de problemas e construção de coisas que funcionam bem.
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;LeetCode+%2F+Desafios+L%C3%B3gicos;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
 
-## Ferramentas e Linguagens
-
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png" alt="Arduino"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="Kotlin"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" alt="Lua"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="EXpress.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
-
-
-
-## Banco de Dados
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
+</div>
 
 ---
 
-## Atualmente Aprendendo
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"/></code>
+## 🚀 Sobre mim
 
+- 🎓 Cursando **Desenvolvimento de Sistemas** pela ETEC
+- 💻 Gosto de resolver **desafios lógicos** e problemas de **LeetCode**
+- 🌱 Atualmente aprendendo **Next.js**, **Laravel** e **Angular**
+- 🔭 Trabalhando com **C#** e **Supabase** em projetos recentes
+- ⚡ Sempre em busca de novas tecnologias e boas práticas de código
 
-## Futuramente Aprender
+---
 
+## 🛠️ Linguagens & Ferramentas
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="Redis"/></code>
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Javascript"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Typescript"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" alt="Lua"/>
+
+<br/><br/>
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Nodejs"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png" alt="Arduino"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/>
+
+</div>
+
+## 🗄️ Banco de Dados
+
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.svg" alt="Supabase" height="40"/>
+
+</div>
+
+---
+
+## 📚 Atualmente Aprendendo
+
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel"/>&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/>
+
+</div>
+
+## 🔮 Próximos Passos
+
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/yangdbr?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+> ⚠️ Substitua `yangdbr` acima pelo seu **username do LeetCode**, caso seja diferente do seu usuário do GitHub.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yangdbr&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yangdbr&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangdbr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Vamos nos conectar!
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yangdbr&color=A855F7&style=flat)
+
+</div>
