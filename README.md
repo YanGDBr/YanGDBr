@@ -14,11 +14,9 @@ Apaixonado por lógica, resolução de problemas e construção de coisas que fu
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Desenvolvimento de Sistemas** pela ETEC
-- 💻 Gosto de resolver **desafios lógicos** e problemas de **LeetCode**
-- 🌱 Atualmente aprendendo **Next.js**, **Laravel** e **Angular**
-- 🔭 Trabalhando com **C#** e **Supabase** em projetos recentes
-- ⚡ Sempre em busca de novas tecnologias e boas práticas de código
+Estou no meio da jornada do curso de **Desenvolvimento de Sistemas na ETEC**, e meu fio condutor é lógica: é o que me puxou pro LeetCode e pros desafios de algoritmo — não como obrigação, mas porque resolver aquele problema teimoso é a parte que mais gosto de programar.
+
+No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando em **C#** e **Supabase** nos projetos mais recentes. Agora a mira está em fechar o ciclo fullstack moderno: estou aprendendo **Next.js**, **Laravel** e **Angular** ao mesmo tempo, comparando como cada ecossistema resolve os mesmos problemas.
 
 ---
 
@@ -89,11 +87,9 @@ Apaixonado por lógica, resolução de problemas e construção de coisas que fu
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/yangdbr?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/YanGDBr?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
-
-> ⚠️ Substitua `yangdbr` acima pelo seu **username do LeetCode**, caso seja diferente do seu usuário do GitHub.
 
 ---
 
@@ -111,15 +107,6 @@ Apaixonado por lógica, resolução de problemas e construção de coisas que fu
 ---
 
 <div align="center">
-
-### 📫 Vamos nos conectar!
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 <br/><br/>
 
