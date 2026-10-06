@@ -4,19 +4,32 @@
 
 ### Estudante de Desenvolvimento de Sistemas • ETEC
 
-Apaixonado por lógica, resolução de problemas e construção de coisas que funcionam bem.
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;LeetCode+%2F+Desafios+L%C3%B3gicos;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Estou no meio da jornada do curso de **Desenvolvimento de Sistemas na ETEC**, e meu fio condutor é lógica: é o que me puxou pro LeetCode e pros desafios de algoritmo — não como obrigação, mas porque resolver aquele problema teimoso é a parte que mais gosto de programar.
+```ts
+class Yan implements Dev {
+  formacao   = "Desenvolvimento de Sistemas @ ETEC";
+  hobby      = ["LeetCode", "desafios lógicos"];
+  stackAtual = ["C#", "Supabase", "Node.js", "React"];
+  estudando  = ["Next.js", "Laravel", "Angular"];
+  proximo    = ["Redis"];
 
-No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando em **C#** e **Supabase** nos projetos mais recentes. Agora a mira está em fechar o ciclo fullstack moderno: estou aprendendo **Next.js**, **Laravel** e **Angular** ao mesmo tempo, comparando como cada ecossistema resolve os mesmos problemas.
+  resolver(problema: Problema) {
+    while (!problema.accepted) {
+      tentar();
+      errar();     // Wrong Answer faz parte
+      aprender();
+    }
+    return "Accepted ✅";
+  }
+}
+```
 
 ---
 
@@ -24,28 +37,11 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Javascript"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Typescript"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" alt="Lua"/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cs,cpp,php,dart,lua&perline=8" alt="Linguagens"/>
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,html,css,tailwind,bootstrap&perline=8" alt="Web"/>
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Nodejs"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png" alt="Arduino"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=flutter,arduino,docker&perline=8" alt="Outros"/>
 
 </div>
 
@@ -53,11 +49,7 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.svg" alt="Supabase" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&perline=8" alt="Bancos de dados"/>
 
 </div>
 
@@ -67,9 +59,7 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel"/>&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/>
+<img src="https://skillicons.dev/icons?i=nextjs,laravel,angular&perline=8" alt="Aprendendo"/>
 
 </div>
 
@@ -77,7 +67,7 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"/>
+<img src="https://skillicons.dev/icons?i=redis&perline=8" alt="Próximos"/>
 
 </div>
 
@@ -87,7 +77,15 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YanGDBr?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/YanGDBr/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-YanGDBr-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/YanGDBr/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/YanGDBr?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 
 </div>
 
@@ -98,7 +96,7 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yangdbr&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yangdbr&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=yangdbr&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangdbr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 
@@ -107,6 +105,13 @@ No dia a dia transito pela stack JS (React, Node, Vue) e venho me aprofundando e
 ---
 
 <div align="center">
+
+### 📫 Vamos nos conectar!
+
+
+<a href="mailto:yangdbr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
