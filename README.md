@@ -73,9 +73,9 @@ class Yan implements Dev {
 
 ---
 
-## 🧠 LeetCode
+<!-- ## 🧠 LeetCode --!>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://leetcode.com/u/YanGDBr/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-YanGDBr-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -87,7 +87,7 @@ class Yan implements Dev {
   <img src="https://leetcard.jacoblin.cool/YanGDBr?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
-</div>
+</div> -->
 
 ---
 
